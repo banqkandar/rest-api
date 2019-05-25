@@ -1,0 +1,28 @@
+.jumbotron img {
+    width: 25%;
+}
+
+section {
+    min-height: 420px;
+}
+
+footer {
+    min-height: 50px;
+    padding-top: 12px;
+}
+
+.ig-thumbnail {
+    width: 110px;
+    height: 110px;
+    float: left;
+    overflow: hidden;
+}
+
+.ig-thumbnail img {
+    padding: 2px;
+    width: 110px;
+}
+
+img.img-profile {
+    width: 200px;
+}

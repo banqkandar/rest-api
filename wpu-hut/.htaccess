@@ -1,0 +1,3 @@
+<IfModule mode_headers.c>
+ Header set Access-Control-Allow-Origin "*"
+</IfModule>

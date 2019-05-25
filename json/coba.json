@@ -1,0 +1,32 @@
+[
+    {
+        "nama" : "Mohammad Iskandar",
+        "umur" : 19,
+        "nim"  : "10116121",
+        "lulus" : false,
+        "hobi"  : [
+            "futsal",
+            "coding",
+            "nonton"
+        ],
+        "pembimbing" : {
+            "pembimbing1" : "bu tati",
+            "pembimbing2" : "bu anna"
+        }
+    },
+    {
+        "nama" : "Mohammad Iskandar",
+        "umur" : 19,
+        "nim"  : "10116121",
+        "lulus" : false,
+        "hobi"  : [
+            "futsal",
+            "coding",
+            "nonton"
+        ],
+        "pembimbing" : {
+            "pembimbing1" : "bu tati",
+            "pembimbing2" : "bu anna"
+        }
+    }
+]
